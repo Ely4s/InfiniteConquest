@@ -1,0 +1,11 @@
+//
+// Created by Elyas EL IDRISSI on 01/04/2021.
+//
+
+#ifndef INFINITECONQUEST_GLOBALFONTMANAGER_H
+#define INFINITECONQUEST_GLOBALFONTMANAGER_H
+
+#include "Manager/FontManager.h"
+extern FontManager fm;
+
+#endif //INFINITECONQUEST_GLOBALFONTMANAGER_H

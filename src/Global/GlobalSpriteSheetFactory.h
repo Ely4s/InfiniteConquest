@@ -1,0 +1,11 @@
+//
+// Created by Elyas EL IDRISSI on 29/03/2021.
+//
+
+#ifndef INFINITECONQUEST_GLOBALSPRITESHEETFACTORY_H
+#define INFINITECONQUEST_GLOBALSPRITESHEETFACTORY_H
+
+#include "Factory/SpriteSheetFactory.h"
+extern SpriteSheetFactory ssf;
+
+#endif //INFINITECONQUEST_GLOBALSPRITESHEETFACTORY_H

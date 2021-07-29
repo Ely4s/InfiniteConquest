@@ -1,0 +1,11 @@
+//
+// Created by Elyas EL IDRISSI on 26/03/2021.
+//
+
+#ifndef INFINITECONQUEST_GLOBALPLAYERENTITYFACTORY_H
+#define INFINITECONQUEST_GLOBALPLAYERENTITYFACTORY_H
+
+#include "Factory/PlayerEntityFactory.h"
+extern PlayerEntityFactory pef;
+
+#endif //INFINITECONQUEST_GLOBALPLAYERENTITYFACTORY_H
